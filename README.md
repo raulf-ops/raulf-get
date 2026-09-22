@@ -1,66 +1,159 @@
-<h1 align="center">Salut, moi c'est Raoulf 👋</h1>
-
-<p align="center">
-  Développeur basé à Montréal 🇨🇦 · Je construis des projets web & mobile
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20views&color=6E40C9&style=for-the-badge" alt="views" />
-</p>
-
-<hr/>
-
-<h2 align="center">🛠️ Languages & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,react&theme=dark" alt="Languages" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-</div>
 
-<hr/>
+# 👋 Hey, I'm Raoulf
 
-<h2 align="center">🚀 En ce moment</h2>
+### 🚀 Young Developer • Builder • Tech Enthusiast
 
-<p align="center">
-  🔭 Je travaille sur <b>mes projets perso</b><br/>
-  🌱 J'apprends <b>React & Python</b><br/>
-  💬 Parle-moi de <b>dev web, mobile et startups</b><br/>
-  ⚡ Fun fact : je code mieux la nuit
-</p>
+I build web & mobile projects, explore new technologies  
+and turn ideas into real products.
 
-<hr/>
-
-<h2 align="center">📊 Mes stats GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="langs" />
-</div>
+🇨🇦 Based in Montréal, Canada
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+<a href="https://github.com/raulf-ops">
+  <img src="https://img.shields.io/badge/GitHub-raulf--ops-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://x.com/raulf_ops">
+  <img src="https://img.shields.io/badge/X-@raulf__ops-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/raulf.ops/">
+  <img src="https://img.shields.io/badge/Instagram-raulf.ops-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=raulf-ops&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile views"/>
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">🏆 Trophées</h2>
+## 🧑‍💻 About Me
+
+```javascript
+const raoulf = {
+  location: "Montréal, Canada",
+  role: "Young Developer",
+  interests: [
+    "Web Development",
+    "Mobile Apps",
+    "Startups",
+    "Technology"
+  ],
+  currentlyLearning: [
+    "JavaScript",
+    "React",
+    "Python"
+  ],
+  mindset: "Build. Learn. Improve."
+};
+```
+
+I'm interested in creating useful digital products,  
+learning how technology works, and building projects from scratch.
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react&theme=dark" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">📫 Contact / Réseaux</h2>
+## 🚀 What I'm Building
 
-<p align="center">
-  <a href="https://www.instagram.com/raulf.ops/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
-  </a>
-  <a href="https://x.com/raulf_ops">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🗺️ NexSap
+
+An interactive map-based mobile application  
+exploring creative map styles and real-world locations.
+
+**Focus:**
+- Mobile development
+- Interactive maps
+- Product design
+
+</td>
+<td width="50%">
+
+### 💡 Future Projects
+
+Experimenting with new ideas,  
+building prototypes and learning  
+how to turn concepts into products.
+
+**Focus:**
+- Web development
+- New technologies
+- Startup ideas
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raulf-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulf-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=raulf-ops&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📈 My Development Journey
+
+```text
+Learning      ███████░░░  Exploring
+Building      ███████░░░  Projects
+Experimenting ████████░░  New Ideas
+Improving     █████████░  Every Day
+```
+
+> "The best way to learn is to build."
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://x.com/raulf_ops">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/raulf.ops/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### Thanks for visiting my profile! ⭐
+
+</div>
+
